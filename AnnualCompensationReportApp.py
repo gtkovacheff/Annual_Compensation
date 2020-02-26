@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import pdb
 import seaborn as sns
-import collections
 import os
 import re
 import warnings
@@ -228,6 +227,11 @@ def generate_report(num, year='all'):
         # print the report
         print(data_grouped)
 
+        # export in csv format
+        data_grouped.to_csv(path_or_buf="Output/Report_1.csv", index=False)
+
+        print("The report has been exported in folder Output!")
+
     elif num == 2:
         assert (
                 year == 'all' or year in years), 'year variable should be \'all\' or one of the following years: 2012, 2013, 2014, 2015, 2016, 2017'
@@ -250,6 +254,11 @@ def generate_report(num, year='all'):
 
         # print the report
         print(data_grouped)
+
+        # export in csv format
+        data_grouped.to_csv(path_or_buf="Output/Report_2.csv", index=False)
+
+        print("The report has been exported in folder Output!")
 
     elif num == 3:
         assert (
@@ -274,6 +283,11 @@ def generate_report(num, year='all'):
 
         # print the report
         print(data_grouped)
+
+        # export in csv format
+        data_grouped.to_csv(path_or_buf="Output/Report_3.csv", index=False)
+
+        print("The report has been exported in folder Output!")
 
     elif num == 4:
         # This is different report
@@ -341,13 +355,17 @@ def generate_report(num, year='all'):
 
         print(df)
 
+        df.to_csv(path_or_buf="Output/Report_4.csv", index=False)
+
+        print("The report has been exported in folder Output!")
+
 
 def start():
     while True:
-
+        #user input
         user_input = input("Please select report from 1 to 4: ")
 
-        try:
+        try: #check if input can be converted to int
             user_input_int = int(user_input)
 
             if user_input_int in [1, 2, 3]:
@@ -382,7 +400,7 @@ def start():
                 start()
             elif yes_no_text == "No":
                 print("Have a successful day!")
-                break
+                exit()
 
 
 start()

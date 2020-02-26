@@ -1,0 +1,74 @@
+Creator: Georgi Kovachev
+Date: 26-02-2020
+
+The following document contain all the information about the application - AnnualCompensationReportApp.py. The app generates reports based on user input.
+
+The following modules were used:
+pandas, numpy, pdb, seaborn, os, re, warnings, statsmodels, collections
+
+pandasOptions.env contains pandas options. 
+
+All the data, which is used for generating the reports, is in folder "Data".
+All the reports, which are generated, is in folder "Output".
+
+The following functions are present within the application:
+
+prepData 
+Arguments:
+        df: the raw dataframe
+        year: the corresponding year, taken from the file name
+Returns:
+        the preped dataframe in convenient format
+ The function preps the data based on the year, because for some years the files are in different format.
+ From 2012 to 2015 the files are almost the same, just a little data wrangling there.
+ For 2016, the column names are totally different + the Compensation column has $ signs and dots.
+ For 2017, the column names are different again + City is missing the Compensation column has dots
+
+
+forecast
+ Arguments:
+        df: the preped dataframe
+        column: which column to forecast, options are mean, min and max
+        plot the forecast: if True the function will plot the forecast
+ Returns:
+        df_tmp, which is the forecast from 2018 to 2028
+For the forecast I used AutoReg function from the statsmodels module.
+It basically creates Autoregressive model using Conditional Maximum Likelihood with
+lags = 1, and trend = 'ct' (constant and timetrend), given the formula 
+						
+						yt=δ+ϕ1yt−1+…+ϕpyt−p+ϵt
+where yt is the value that is predicted based on yt-1, yt-2... The term ϵt is the residual on time t.
+
+Why lags = 1 - because we can observe at most 4 years of data, for particular department,
+not all the departments have data points during all the years. Since this is a big
+problem I had to fill the missing values with backward and forward fill imputation, which
+basically takes the previous or the next value within the data. This will preserve the trend
+and the estimate would be more accurate. The model is evaluated with two performance metrics:
+AIC - Akaike information criterion, which goal is to be as minimum as possible
+BIC - Bayesian information criterion, the same. We can see that the models are performing well, based on the
+small values of AIC and BIC, given that we estimate 10 new points with 6 old points.
+That's why departments with less than 3 points are being filtered for the sake of not violate model accuracy.
+
+
+generate_forecast_df
+Arguments:
+        df: DataFrame with the data, which will be forecasted
+        print_df: Parameter if the data should be printed
+        filter_above_2017: default True, if the user wants to filter the data
+    Returns:
+        forcasted df for the report number 4
+
+    This function takes the output from the forecast function and
+    joins all the data, resulting into a new dataframe
+
+generate_report
+Arguments:
+        num: the number from 1 to 4, from the assignment, which tells us which report to generate
+        year: default value 'all', filter the report based on this variable
+The function generates all the 4 reports, then prints them on the console, and creates a csv file for every report
+in the folder Output.
+
+
+start
+Arguments: no arguments 
+The function asks user to input values and take the corresponding decisions if some of the values are violated.
