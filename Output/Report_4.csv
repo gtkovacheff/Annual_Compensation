@@ -1,0 +1,485 @@
+Year,Department,Compensation_mean,Compensation_min,Compensation_max
+2018,Board of Public Safety,361.3,-94.64,634.4
+2019,Board of Public Safety,362.01,-126.05,634.4
+2020,Board of Public Safety,292.32,-279.97,634.4
+2021,Board of Public Safety,259.19,-380.82,634.4
+2022,Board of Public Safety,207.08,-504.66,634.4
+2023,Board of Public Safety,164.83,-618.55,634.4
+2024,Board of Public Safety,117.45,-736.74,634.4
+2025,Board of Public Safety,72.74,-853.07,634.4
+2026,Board of Public Safety,26.64,-970.21,634.4
+2027,Board of Public Safety,-18.73,-1086.99,634.4
+2028,Board of Public Safety,-64.49,-1203.93,634.4
+2018,Animal - Animal Shelter,33115.54,1027.91,53159.56
+2019,Animal - Animal Shelter,34062.38,1153.62,51990.17
+2020,Animal - Animal Shelter,35917.3,1356.19,50402.31
+2021,Animal - Animal Shelter,37423.37,1534.06,48918.29
+2022,Animal - Animal Shelter,39063.45,1719.87,47408.5
+2023,Animal - Animal Shelter,40652.04,1903.13,45905.1
+2024,Animal - Animal Shelter,42260.42,2087.21,44400.12
+2025,Animal - Animal Shelter,43861.2,2271.03,42895.54
+2026,Animal - Animal Shelter,45464.9,2454.93,41390.85
+2027,Animal - Animal Shelter,47067.47,2638.8,39886.19
+2028,Animal - Animal Shelter,48670.48,2822.68,38381.53
+2018,Utilities T&D - Utilities.Transmission & Distribution,40834.78,817.93,73096.86
+2019,Utilities T&D - Utilities.Transmission & Distribution,41007.63,556.92,73322.49
+2020,Utilities T&D - Utilities.Transmission & Distribution,41564.16,-199.82,74093.44
+2021,Utilities T&D - Utilities.Transmission & Distribution,41936.12,-722.33,74595.54
+2022,Utilities T&D - Utilities.Transmission & Distribution,42396.86,-1355.52,75230.18
+2023,Utilities T&D - Utilities.Transmission & Distribution,42814.9,-1936.41,75799.48
+2024,Utilities T&D - Utilities.Transmission & Distribution,43253.48,-2542.01,76401.0
+2025,Utilities T&D - Utilities.Transmission & Distribution,43682.17,-3135.94,76986.63
+2026,Utilities T&D - Utilities.Transmission & Distribution,44115.63,-3735.38,77580.1
+2027,Utilities T&D - Utilities.Transmission & Distribution,44546.79,-4332.21,78169.7
+2028,Utilities T&D - Utilities.Transmission & Distribution,44979.05,-4930.28,78761.2
+2018,Utilities Comm - Utilities.Communications,24194.68,9041.43,36521.87
+2019,Utilities Comm - Utilities.Communications,24329.04,10464.6,36441.29
+2020,Utilities Comm - Utilities.Communications,24534.4,12071.68,36360.28
+2021,Utilities Comm - Utilities.Communications,24718.39,13654.4,36279.27
+2022,Utilities Comm - Utilities.Communications,24908.82,15240.35,36198.27
+2023,Utilities Comm - Utilities.Communications,25097.31,16825.87,36117.26
+2024,Utilities Comm - Utilities.Communications,25286.38,18411.44,36036.26
+2025,Utilities Comm - Utilities.Communications,25475.28,19997.01,35955.25
+2026,Utilities Comm - Utilities.Communications,25664.23,21582.58,35874.24
+2027,Utilities Comm - Utilities.Communications,25853.16,23168.15,35793.24
+2028,Utilities Comm - Utilities.Communications,26042.1,24753.72,35712.23
+2018,Utilities Customer Serv - Utilities.Customer Relations,27865.93,14898.63,48213.52
+2019,Utilities Customer Serv - Utilities.Customer Relations,28099.99,15708.19,48500.79
+2020,Utilities Customer Serv - Utilities.Customer Relations,28334.57,16522.63,48793.44
+2021,Utilities Customer Serv - Utilities.Customer Relations,28569.15,17337.02,49085.95
+2022,Utilities Customer Serv - Utilities.Customer Relations,28803.73,18151.4,49378.46
+2023,Utilities Customer Serv - Utilities.Customer Relations,29038.31,18965.79,49670.97
+2024,Utilities Customer Serv - Utilities.Customer Relations,29272.89,19780.18,49963.49
+2025,Utilities Customer Serv - Utilities.Customer Relations,29507.47,20594.57,50256.0
+2026,Utilities Customer Serv - Utilities.Customer Relations,29742.05,21408.96,50548.51
+2027,Utilities Customer Serv - Utilities.Customer Relations,29976.63,22223.35,50841.02
+2028,Utilities Customer Serv - Utilities.Customer Relations,30211.21,23037.74,51133.54
+2018,Utilities Dillman - Utilities.Dillman Road WWTP,46059.82,11809.24,63182.11
+2019,Utilities Dillman - Utilities.Dillman Road WWTP,45282.03,8651.02,62630.42
+2020,Utilities Dillman - Utilities.Dillman Road WWTP,44434.93,4923.51,62002.78
+2021,Utilities Dillman - Utilities.Dillman Road WWTP,43594.82,1290.41,61385.65
+2022,Utilities Dillman - Utilities.Dillman Road WWTP,42754.01,-2358.35,60767.07
+2023,Utilities Dillman - Utilities.Dillman Road WWTP,41913.26,-6004.51,60148.69
+2024,Utilities Dillman - Utilities.Dillman Road WWTP,41072.51,-9651.1,59530.28
+2025,Utilities Dillman - Utilities.Dillman Road WWTP,40231.76,-13297.62,58911.87
+2026,Utilities Dillman - Utilities.Dillman Road WWTP,39391.01,-16944.15,58293.47
+2027,Utilities Dillman - Utilities.Dillman Road WWTP,38550.26,-20590.68,57675.06
+2028,Utilities Dillman - Utilities.Dillman Road WWTP,37709.51,-24237.21,57056.66
+2018,Utilities Director - Utilities.Department of the Director,15511.4,-389.14,95387.39
+2019,Utilities Director - Utilities.Department of the Director,13955.6,-661.35,96096.69
+2020,Utilities Director - Utilities.Department of the Director,12220.4,-953.89,97289.71
+2021,Utilities Director - Utilities.Department of the Director,10507.11,-1244.64,98319.94
+2022,Utilities Director - Utilities.Department of the Director,8791.14,-1535.54,99404.96
+2023,Utilities Director - Utilities.Department of the Director,7075.51,-1826.44,100471.54
+2024,Utilities Director - Utilities.Department of the Director,5359.83,-2117.33,101544.32
+2025,Utilities Director - Utilities.Department of the Director,3644.16,-2408.23,102615.02
+2026,Utilities Director - Utilities.Department of the Director,1928.49,-2699.12,103686.42
+2027,Utilities Director - Utilities.Department of the Director,212.81,-2990.02,104757.58
+2028,Utilities Director - Utilities.Department of the Director,-1502.86,-3280.91,105828.82
+2018,Utilities Engineering - Utilities.Engineering,46020.94,2547.44,81180.18
+2019,Utilities Engineering - Utilities.Engineering,45537.38,2677.8,81682.3
+2020,Utilities Engineering - Utilities.Engineering,45048.91,3083.66,82290.41
+2021,Utilities Engineering - Utilities.Engineering,44560.51,3356.05,82879.09
+2022,Utilities Engineering - Utilities.Engineering,44072.11,3693.1,83471.33
+2023,Utilities Engineering - Utilities.Engineering,43583.72,3998.82,84062.92
+2024,Utilities Engineering - Utilities.Engineering,43095.32,4319.72,84654.63
+2025,Utilities Engineering - Utilities.Engineering,42606.92,4633.27,85246.32
+2026,Utilities Engineering - Utilities.Engineering,42118.52,4950.38,85838.01
+2027,Utilities Engineering - Utilities.Engineering,41630.13,5265.76,86429.71
+2028,Utilities Engineering - Utilities.Engineering,41141.73,5581.98,87021.4
+2018,Utilities Lab - Utilities.Laboratory,43278.46,22319.35,59709.1
+2019,Utilities Lab - Utilities.Laboratory,42757.21,20771.05,59924.26
+2020,Utilities Lab - Utilities.Laboratory,42141.69,18648.24,60522.67
+2021,Utilities Lab - Utilities.Laboratory,41541.84,16670.73,60948.16
+2022,Utilities Lab - Utilities.Laboratory,40939.38,14656.47,61451.67
+2023,Utilities Lab - Utilities.Laboratory,40337.36,12651.51,61919.98
+2024,Utilities Lab - Utilities.Laboratory,39735.26,10644.2,62404.18
+2025,Utilities Lab - Utilities.Laboratory,39133.17,8637.48,62881.2
+2026,Utilities Lab - Utilities.Laboratory,38531.09,6630.61,63361.46
+2027,Utilities Lab - Utilities.Laboratory,37929.0,4623.78,63840.26
+2028,Utilities Lab - Utilities.Laboratory,37326.92,2616.94,64319.72
+2018,Utilities Meters - Utilities.Meters,32795.05,-16706.92,58532.31
+2019,Utilities Meters - Utilities.Meters,31673.06,-23722.7,58771.86
+2020,Utilities Meters - Utilities.Meters,30252.68,-33582.43,59420.71
+2021,Utilities Meters - Utilities.Meters,28895.13,-42689.44,59887.21
+2022,Utilities Meters - Utilities.Meters,27524.35,-51995.68,60434.95
+2023,Utilities Meters - Utilities.Meters,26156.35,-61249.19,60946.5
+2024,Utilities Meters - Utilities.Meters,24787.76,-70516.66,61474.17
+2025,Utilities Meters - Utilities.Meters,23419.3,-79780.43,61994.66
+2026,Utilities Meters - Utilities.Meters,22050.82,-89045.18,62518.35
+2027,Utilities Meters - Utilities.Meters,20682.33,-98309.68,63040.61
+2028,Utilities Meters - Utilities.Meters,19313.85,-107574.24,63563.51
+2018,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,37762.26,5482.8,74875.98
+2019,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,37425.82,5915.12,75511.4
+2020,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,37074.4,6642.65,77098.99
+2021,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,36723.85,7270.79,78264.12
+2022,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,36373.24,7932.4,79616.68
+2023,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,36022.63,8582.73,80886.09
+2024,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,35672.03,9236.87,82192.39
+2025,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,35321.42,9889.72,83482.32
+2026,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,34970.82,10543.0,84779.51
+2027,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,34620.21,11196.14,86073.48
+2028,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,34269.61,11849.33,87368.88
+2018,Utilities Purchasing - Utilities.Purchasing,41279.92,21029.8,50816.01
+2019,Utilities Purchasing - Utilities.Purchasing,41421.73,21201.74,50791.38
+2020,Utilities Purchasing - Utilities.Purchasing,41565.49,21393.15,50766.65
+2021,Utilities Purchasing - Utilities.Purchasing,41709.22,21582.38,50741.93
+2022,Utilities Purchasing - Utilities.Purchasing,41852.95,21771.86,50717.2
+2023,Utilities Purchasing - Utilities.Purchasing,41996.68,21961.31,50692.48
+2024,Utilities Purchasing - Utilities.Purchasing,42140.41,22150.77,50667.76
+2025,Utilities Purchasing - Utilities.Purchasing,42284.13,22340.22,50643.03
+2026,Utilities Purchasing - Utilities.Purchasing,42427.86,22529.67,50618.31
+2027,Utilities Purchasing - Utilities.Purchasing,42571.59,22719.13,50593.58
+2028,Utilities Purchasing - Utilities.Purchasing,42715.32,22908.58,50568.86
+2018,Utilities Stormwater - Utilities.Stormwater,44710.64,48626.84,50413.85
+2019,Utilities Stormwater - Utilities.Stormwater,45289.93,52757.76,49796.11
+2020,Utilities Stormwater - Utilities.Stormwater,46079.91,57384.27,48867.3
+2021,Utilities Stormwater - Utilities.Stormwater,46817.16,61948.51,48030.01
+2022,Utilities Stormwater - Utilities.Stormwater,47567.61,66520.57,47165.8
+2023,Utilities Stormwater - Utilities.Stormwater,48314.75,71091.64,46309.5
+2024,Utilities Stormwater - Utilities.Stormwater,49062.72,75662.84,45450.87
+2025,Utilities Stormwater - Utilities.Stormwater,49810.49,80234.02,44592.93
+2026,Utilities Stormwater - Utilities.Stormwater,50558.3,84805.21,43734.79
+2027,Utilities Stormwater - Utilities.Stormwater,51306.11,89376.39,42876.71
+2028,Utilities Stormwater - Utilities.Stormwater,52053.91,93947.58,42018.61
+2018,Utilities USB - Utilities.Utility Service Board,3261.02,-1668.01,4262.7
+2019,Utilities USB - Utilities.Utility Service Board,3151.14,-2301.17,4262.7
+2020,Utilities USB - Utilities.Utility Service Board,2946.51,-3509.29,4262.7
+2021,Utilities USB - Utilities.Utility Service Board,2776.89,-4500.88,4262.7
+2022,Utilities USB - Utilities.Utility Service Board,2594.33,-5574.01,4262.7
+2023,Utilities USB - Utilities.Utility Service Board,2416.55,-6616.44,4262.7
+2024,Utilities USB - Utilities.Utility Service Board,2237.01,-7670.43,4262.7
+2025,Utilities USB - Utilities.Utility Service Board,2058.11,-8720.06,4262.7
+2026,Utilities USB - Utilities.Utility Service Board,1878.98,-9771.34,4262.7
+2027,Utilities USB - Utilities.Utility Service Board,1699.94,-10821.99,4262.7
+2028,Utilities USB - Utilities.Utility Service Board,1520.86,-11872.88,4262.7
+2018,Utilities B&C - Utilities.Billings & Collections,37081.21,32735.19,47844.97
+2019,Utilities B&C - Utilities.Billings & Collections,37964.14,36094.4,47919.01
+2020,Utilities B&C - Utilities.Billings & Collections,38943.76,39717.69,48048.25
+2021,Utilities B&C - Utilities.Billings & Collections,39912.01,43316.78,48158.22
+2022,Utilities B&C - Utilities.Billings & Collections,40881.59,46918.1,48274.92
+2023,Utilities B&C - Utilities.Billings & Collections,41851.02,50519.21,48389.27
+2024,Utilities B&C - Utilities.Billings & Collections,42820.46,54120.34,48504.44
+2025,Utilities B&C - Utilities.Billings & Collections,43789.9,57721.46,48619.32
+2026,Utilities B&C - Utilities.Billings & Collections,44759.34,61322.59,48734.3
+2027,Utilities B&C - Utilities.Billings & Collections,45728.79,64923.72,48849.25
+2028,Utilities B&C - Utilities.Billings & Collections,46698.23,68524.85,48964.21
+2018,Council,16043.86,-535.86,86463.43
+2019,Council,16061.5,-1494.49,88361.39
+2020,Council,14613.13,-2454.46,90302.1
+2021,Council,13936.33,-3414.49,92264.81
+2022,Council,12853.45,-4374.52,94238.84
+2023,Council,11984.29,-5334.55,96218.7
+2024,Council,11002.64,-6294.57,98201.56
+2025,Council,10080.2,-7254.6,100185.96
+2026,Council,9126.6,-8214.63,102171.15
+2027,Council,8189.4,-9174.66,104156.76
+2028,Council,7243.57,-10134.69,106142.58
+2018,Fleet Maintenance,55221.27,7.82,99876.52
+2019,Fleet Maintenance,-19822.55,-3283.96,-122999.3
+2020,Fleet Maintenance,281123.08,-6577.68,888521.07
+2021,Fleet Maintenance,-924018.09,-9871.36,-3698332.1
+2022,Fleet Maintenance,3903716.11,-13165.04,17105192.99
+2023,Fleet Maintenance,-15434212.18,-16458.72,-77244603.21
+2024,Fleet Maintenance,62027346.95,-19752.4,350661994.92
+2025,Fleet Maintenance,-248257168.29,-23046.08,-1590027799.76
+2026,Fleet Maintenance,994638216.37,-26339.76,7211609226.17
+2027,Fleet Maintenance,-3983980840.67,-29633.44,-32706571894.54
+2028,Fleet Maintenance,15958687037.94,-32927.12,148334888213.26
+2018,Human Resources,42040.81,18518.14,129397.15
+2019,Human Resources,35680.31,159595.89,432003.26
+2020,Human Resources,44039.61,1375793.7,2757270.67
+2021,Human Resources,36475.23,11859845.19,20623618.38
+2022,Human Resources,46136.87,102235542.97,157899566.46
+2023,Human Resources,37163.63,881300916.9,1212656949.38
+2024,Human Resources,48349.37,7597075471.66,9316865806.08
+2025,Human Resources,37727.38,65489043193.07,71585403437.73
+2026,Human Resources,50696.7,564534967972.49,550024549881.84
+2027,Human Resources,38145.26,4866458789397.96,4226102798602.47
+2028,Human Resources,53201.85,41950317500953.52,32471181384911.62
+2018,Legal,20211.2,-5267.63,454763.43
+2019,Legal,155804.05,-10952.21,24536818.21
+2020,Legal,-300165.02,-16646.98,1636388261.19
+2021,Legal,1228545.97,-22342.22,109520248631.34
+2022,Legal,-3901310.43,-28037.49,7330363941477.75
+2023,Legal,13308211.98,-33732.76,490633273732187.6
+2024,Legal,-44430496.49,-39428.03,3.2838889592250984e+16
+2025,Legal,149280817.84,-45123.3,2.197960732747984e+18
+2026,Legal,-500618360.37,-50818.57,1.4711311626854803e+20
+2027,Legal,1679781123.64,-56513.84,9.846522121978995e+21
+2028,Legal,-5635422621.79,-62209.11,6.590438728905507e+23
+2018,Office of the Mayor,-241263.85,1925.41,489010.82
+2019,Office of the Mayor,9028525.66,-407.18,25947647.02
+2020,Office of the Mayor,-299717407.85,3207.1,1706134295.33
+2021,Office of the Mayor,9983582707.04,-1840.22,112592951144.35
+2022,Office of the Mayor,-332518943059.12,5728.05,7430759751453.6
+2023,Office of the Mayor,11075101064041.4,-5078.22,490405804385273.06
+2024,Office of the Mayor,-368874780870943.4,10877.92,3.2365177192374144e+16
+2025,Office of the Mayor,1.2285992114460718e+16,-12145.24,2.1359957111609805e+18
+2026,Office of the Mayor,-4.092055354601302e+17,21604.74,1.409687223707342e+20
+2027,Office of the Mayor,1.3629275413138268e+19,-27335.05,9.303474058024611e+21
+2028,Office of the Mayor,-4.5394583452613175e+20,44162.36,6.139988225239542e+23
+2018,Police,46402.25,138.63,103037.43
+2019,Police,47120.44,1354.94,110727.95
+2020,Police,46175.83,-332.89,120863.0
+2021,Police,46768.92,1561.86,133906.32
+2022,Police,45940.01,-962.9,150409.6
+2023,Police,46426.09,1964.29,171029.21
+2024,Police,45696.13,-1834.09,196546.02
+2025,Police,46090.72,2664.25,227889.04
+2026,Police,45445.37,-3072.33,266163.51
+2027,Police,45761.71,3816.99,312684.35
+2028,Police,45188.72,-4869.11,369015.9
+2018,Public Works,-8585.22,-5418.44,75660.82
+2019,Public Works,81738.39,14932.38,108553.93
+2020,Public Works,-76959.13,-29185.41,30847.04
+2021,Public Works,187243.2,64544.26,211910.53
+2022,Public Works,-266743.66,-136472.95,-212470.02
+2023,Public Works,498933.47,292740.67,779704.44
+2024,Public Works,-806682.41,-625611.76,-1542429.18
+2025,Public Works,1405272.73,1337415.4,3889910.52
+2026,Public Works,-2356483.15,-2860552.92,-8820859.9
+2027,Public Works,4026608.98,6114982.7,20917731.66
+2028,Public Works,-6818775.57,-13077203.37,-48662278.77
+2018,Sanitation,120316.48,6666.79,61679.12
+2019,Sanitation,-1560063.45,1481.86,63092.25
+2020,Sanitation,29670871.67,8229.37,64539.62
+2021,Sanitation,-550774482.65,2775.81,66005.47
+2022,Sanitation,10237146405.21,9797.99,67481.27
+2023,Sanitation,-190262754791.21,4063.57,68962.45
+2024,Sanitation,3536146700211.85,11372.94,70446.53
+2025,Sanitation,-65721380825571.91,5344.86,71932.17
+2026,Sanitation,1221470801598322.0,12954.5,73418.65
+2027,Sanitation,-2.2701758538003068e+16,6619.4,74905.59
+2028,Sanitation,4.219256326550021e+17,14542.97,76392.77
+2018,Street,33412.54,356.35,71812.33
+2019,Street,34494.0,418.02,73388.6
+2020,Street,35577.33,480.06,75000.38
+2021,Street,36660.59,542.14,76630.46
+2022,Street,37743.85,604.22,78269.96
+2023,Street,38827.12,666.3,79914.31
+2024,Street,39910.38,728.39,81561.16
+2025,Street,40993.64,790.47,83209.3
+2026,Street,42076.9,852.55,84858.1
+2027,Street,43160.16,914.64,86507.25
+2028,Street,44243.42,976.72,88156.56
+2018,Utilities Blucher - Utilities.Blucher Poole WWTP,52403.06,54795.02,64777.03
+2019,Utilities Blucher - Utilities.Blucher Poole WWTP,53174.02,58574.77,65068.62
+2020,Utilities Blucher - Utilities.Blucher Poole WWTP,53973.59,64835.84,65485.3
+2021,Utilities Blucher - Utilities.Blucher Poole WWTP,54771.84,70323.6,65870.18
+2022,Utilities Blucher - Utilities.Blucher Poole WWTP,55570.14,76052.37,66263.14
+2023,Utilities Blucher - Utilities.Blucher Poole WWTP,56368.45,81706.03,66654.05
+2024,Utilities Blucher - Utilities.Blucher Poole WWTP,57166.75,87383.09,67045.48
+2025,Utilities Blucher - Utilities.Blucher Poole WWTP,57965.06,93052.86,67436.77
+2026,Utilities Blucher - Utilities.Blucher Poole WWTP,58763.36,98724.9,67828.11
+2027,Utilities Blucher - Utilities.Blucher Poole WWTP,59561.67,104396.24,68219.43
+2028,Utilities Blucher - Utilities.Blucher Poole WWTP,60359.97,110067.79,68610.75
+2018,Fire,56254.26,-5141.06,73926.86
+2019,Fire,55972.69,-10860.66,103607.91
+2020,Fire,55680.97,-16587.69,50058.94
+2021,Fire,55390.68,-22314.47,142201.49
+2022,Fire,55100.19,-28041.25,-20684.37
+2023,Fire,54809.72,-33768.04,262848.94
+2024,Fire,54519.26,-39494.83,-235060.4
+2025,Fire,54228.79,-45221.62,634920.92
+2026,Fire,53938.32,-50948.41,-889547.11
+2027,Fire,53647.86,-56675.2,1777392.74
+2028,Fire,53357.39,-62401.98,-2892594.38
+2018,Utilities Accounting - Utilities.Accounting,48262.65,33970.57,68792.09
+2019,Utilities Accounting - Utilities.Accounting,48402.85,34051.02,67737.0
+2020,Utilities Accounting - Utilities.Accounting,48549.81,34131.61,66311.98
+2021,Utilities Accounting - Utilities.Accounting,48696.39,34212.2,64977.77
+2022,Utilities Accounting - Utilities.Accounting,48842.99,34292.79,63621.27
+2023,Utilities Accounting - Utilities.Accounting,48989.59,34373.38,62270.24
+2024,Utilities Accounting - Utilities.Accounting,49136.18,34453.97,60917.87
+2025,Utilities Accounting - Utilities.Accounting,49282.78,34534.56,59565.83
+2026,Utilities Accounting - Utilities.Accounting,49429.38,34615.15,58213.71
+2027,Utilities Accounting - Utilities.Accounting,49575.98,34695.74,56861.6
+2028,Utilities Accounting - Utilities.Accounting,49722.57,34776.33,55509.5
+2018,Legal - Legal,47019.17,-18108.4,93375.33
+2019,Legal - Legal,44452.57,-27755.75,94079.22
+2020,Legal - Legal,41519.95,-38661.05,95237.53
+2021,Legal - Legal,38639.26,-49398.65,96246.42
+2022,Legal - Legal,35751.21,-60158.61,97304.44
+2023,Legal - Legal,32864.2,-70915.58,98346.31
+2024,Legal - Legal,29977.04,-81672.96,99393.49
+2025,Legal - Legal,27089.9,-92430.28,100438.92
+2026,Legal - Legal,24202.76,-103187.6,101484.93
+2027,Legal - Legal,21315.61,-113944.93,102530.74
+2028,Legal - Legal,18428.47,-124702.26,103576.62
+2018,CFRD - Community & Family Resources,40102.55,4646.34,85127.93
+2019,CFRD - Community & Family Resources,41008.01,4884.93,85770.34
+2020,CFRD - Community & Family Resources,42437.54,5698.57,86850.67
+2021,CFRD - Community & Family Resources,43712.84,6226.09,87783.65
+2022,CFRD - Community & Family Resources,45033.54,6895.97,88766.21
+2023,CFRD - Community & Family Resources,46340.87,7495.01,89732.09
+2024,CFRD - Community & Family Resources,47652.14,8129.31,90703.59
+2025,CFRD - Community & Family Resources,48962.25,8746.06,91673.19
+2026,CFRD - Community & Family Resources,50272.7,9371.54,92643.43
+2027,CFRD - Community & Family Resources,51583.04,9992.68,93613.46
+2028,CFRD - Community & Family Resources,52893.42,10615.98,94583.56
+2018,Controller - Controller,42570.78,-459.38,98713.6
+2019,Controller - Controller,42484.23,-1015.41,100964.0
+2020,Controller - Controller,42397.37,-1636.64,104938.78
+2021,Controller - Controller,42310.5,-2249.81,108338.91
+2022,Controller - Controller,42223.63,-2863.97,111930.54
+2023,Controller - Controller,42136.76,-3478.01,115458.35
+2024,Controller - Controller,42049.9,-4092.07,119007.43
+2025,Controller - Controller,41963.03,-4706.12,122549.42
+2026,Controller - Controller,41876.16,-5320.17,126093.78
+2027,Controller - Controller,41789.3,-5934.23,129637.35
+2028,Controller - Controller,41702.43,-6548.28,133181.18
+2018,Council - Council,23850.79,6037.72,86848.63
+2019,Council - Council,24375.34,6809.86,88437.76
+2020,Council - Council,25633.65,8029.42,91412.8
+2021,Council - Council,26585.27,9108.63,93873.69
+2022,Council - Council,27665.08,10231.87,96525.33
+2023,Council - Council,28691.31,11341.3,99106.2
+2024,Council - Council,29739.94,12455.06,101713.32
+2025,Council - Council,30779.2,13567.46,104310.71
+2026,Council - Council,31822.38,14680.29,106911.71
+2027,Council - Council,32863.92,15792.98,109511.37
+2028,Council - Council,33906.15,16905.71,112111.52
+2018,ESD - Economic & Sustainable Dev,29650.96,993.31,85308.14
+2019,ESD - Economic & Sustainable Dev,28663.06,989.98,86237.72
+2020,ESD - Economic & Sustainable Dev,27615.89,986.17,87381.35
+2021,ESD - Economic & Sustainable Dev,26573.09,982.43,88486.62
+2022,ESD - Economic & Sustainable Dev,25529.96,978.68,89598.76
+2023,ESD - Economic & Sustainable Dev,24486.86,974.93,90709.67
+2024,ESD - Economic & Sustainable Dev,23443.76,971.18,91820.81
+2025,ESD - Economic & Sustainable Dev,22400.66,967.43,92931.9
+2026,ESD - Economic & Sustainable Dev,21357.56,963.68,94043.0
+2027,ESD - Economic & Sustainable Dev,20314.46,959.93,95154.1
+2028,ESD - Economic & Sustainable Dev,19271.35,956.18,96265.2
+2018,Fire - Fire,54770.6,7239.23,90657.9
+2019,Fire - Fire,54678.93,6546.53,91149.36
+2020,Fire - Fire,54358.07,5852.55,92071.85
+2021,Fire - Fire,54151.81,5158.57,92834.1
+2022,Fire - Fire,53888.25,4464.6,93655.93
+2023,Fire - Fire,53653.34,3770.62,94455.61
+2024,Fire - Fire,53404.1,3076.64,95263.52
+2025,Fire - Fire,53162.03,2382.67,96068.37
+2026,Fire - Fire,52916.38,1688.69,96874.35
+2027,Fire - Fire,52672.51,994.71,97679.92
+2028,Fire - Fire,52427.75,300.74,98485.64
+2018,HAND - Housing & Neighborhood Dev,29074.05,671.29,84997.59
+2019,HAND - Housing & Neighborhood Dev,28335.55,726.11,85572.08
+2020,HAND - Housing & Neighborhood Dev,26134.28,780.97,86611.18
+2021,HAND - Housing & Neighborhood Dev,24631.16,835.83,87482.82
+2022,HAND - Housing & Neighborhood Dev,22794.83,890.7,88414.82
+2023,HAND - Housing & Neighborhood Dev,21117.53,945.56,89325.06
+2024,HAND - Housing & Neighborhood Dev,19364.33,1000.42,90243.14
+2025,HAND - Housing & Neighborhood Dev,17647.36,1055.28,91158.4
+2026,HAND - Housing & Neighborhood Dev,15913.1,1110.15,92074.68
+2027,HAND - Housing & Neighborhood Dev,14187.09,1165.01,92990.59
+2028,HAND - Housing & Neighborhood Dev,12457.14,1219.87,93906.63
+2018,HR - Human Resources,40731.65,11385.15,86956.45
+2019,HR - Human Resources,41951.62,12778.76,87185.11
+2020,HR - Human Resources,44662.89,15116.83,87418.62
+2021,HR - Human Resources,46778.94,17137.9,87652.0
+2022,HR - Human Resources,49132.56,19265.37,87885.38
+2023,HR - Human Resources,51391.36,21357.13,88118.76
+2024,HR - Human Resources,53688.01,23460.88,88352.13
+2025,HR - Human Resources,55969.55,25560.6,88585.51
+2026,HR - Human Resources,58257.11,27661.67,88818.89
+2027,HR - Human Resources,60542.28,29762.29,89052.27
+2028,HR - Human Resources,62828.4,31863.06,89285.65
+2018,ITS - Information & Technology Service,49732.0,2298.64,85046.94
+2019,ITS - Information & Technology Service,50877.92,2598.75,85679.19
+2020,ITS - Information & Technology Service,52206.96,2927.06,86742.65
+2021,ITS - Information & Technology Service,53507.93,3252.42,87660.99
+2022,ITS - Information & Technology Service,54813.21,3578.08,88628.17
+2023,ITS - Information & Technology Service,56117.82,3903.71,89578.91
+2024,ITS - Information & Technology Service,57422.54,4229.35,90535.18
+2025,ITS - Information & Technology Service,58727.24,4554.98,91489.59
+2026,ITS - Information & Technology Service,60031.95,4880.62,92444.63
+2027,ITS - Information & Technology Service,61336.65,5206.25,93399.46
+2028,ITS - Information & Technology Service,62641.36,5531.89,94354.36
+2018,Clerk - Clerk,22476.04,5705.13,52949.77
+2019,Clerk - Clerk,22392.9,6028.01,53343.68
+2020,Clerk - Clerk,22309.72,6883.66,54006.21
+2021,Clerk - Clerk,22226.55,7504.49,54578.34
+2022,Clerk - Clerk,22143.37,8228.82,55180.9
+2023,Clerk - Clerk,22060.2,8907.53,55773.22
+2024,Clerk - Clerk,21977.03,9606.34,56368.98
+2025,Clerk - Clerk,21893.85,10296.3,56963.58
+2026,Clerk - Clerk,21810.68,10990.15,57558.58
+2027,Clerk - Clerk,21727.5,11682.29,58153.44
+2028,Clerk - Clerk,21644.33,12375.19,58748.35
+2018,OOTM - Office of the Mayor,25668.33,-177.15,101539.21
+2019,OOTM - Office of the Mayor,25234.21,-358.41,102298.58
+2020,OOTM - Office of the Mayor,24786.43,-558.31,103564.21
+2021,OOTM - Office of the Mayor,24339.23,-756.11,104661.09
+2022,OOTM - Office of the Mayor,23892.01,-954.15,105814.21
+2023,OOTM - Office of the Mayor,23444.79,-1152.16,106948.59
+2024,OOTM - Office of the Mayor,22997.57,-1350.18,108089.22
+2025,OOTM - Office of the Mayor,22550.35,-1548.19,109227.76
+2026,OOTM - Office of the Mayor,22103.13,-1746.21,110367.0
+2027,OOTM - Office of the Mayor,21655.91,-1944.22,111506.0
+2028,OOTM - Office of the Mayor,21208.69,-2142.24,112645.09
+2018,Risk - Risk,50427.33,37149.68,67806.18
+2019,Risk - Risk,49764.31,37292.51,67753.59
+2020,Risk - Risk,48948.43,37444.64,67700.76
+2021,Risk - Risk,48162.13,37596.09,67647.94
+2022,Risk - Risk,47370.1,37747.59,67595.11
+2023,Risk - Risk,46579.18,37899.09,67542.29
+2024,Risk - Risk,45788.04,38050.59,67489.47
+2025,Risk - Risk,44996.95,38202.09,67436.64
+2026,Risk - Risk,44205.85,38353.59,67383.82
+2027,Risk - Risk,43414.75,38505.08,67330.99
+2028,Risk - Risk,42623.65,38656.58,67278.17
+2018,Sanitation - Sanitation,43431.9,10467.39,58822.62
+2019,Sanitation - Sanitation,45084.49,11269.33,59054.51
+2020,Sanitation - Sanitation,47285.53,13270.16,59531.64
+2021,Sanitation - Sanitation,49355.86,14739.42,59915.89
+2022,Sanitation - Sanitation,51457.34,16444.37,60335.32
+2023,Sanitation - Sanitation,53551.39,18044.82,60741.42
+2024,Sanitation - Sanitation,55647.22,19691.61,61152.57
+2025,Sanitation - Sanitation,57742.62,21317.85,61561.81
+2026,Sanitation - Sanitation,59838.12,22953.19,61971.77
+2027,Sanitation - Sanitation,61933.6,24584.5,62381.46
+2028,Sanitation - Sanitation,64029.09,26217.6,62791.26
+2018,Parks - Parks & Recreation,7571.49,30.71,92470.8
+2019,Parks - Parks & Recreation,7490.92,34.05,93158.52
+2020,Parks - Parks & Recreation,7217.78,37.46,94315.22
+2021,Parks - Parks & Recreation,7040.33,40.86,95314.1
+2022,Parks - Parks & Recreation,6815.33,44.27,96366.1
+2023,Parks - Parks & Recreation,6613.95,47.67,97400.21
+2024,Parks - Parks & Recreation,6400.84,51.08,98440.35
+2025,Parks - Parks & Recreation,6193.56,54.48,99478.46
+2026,Parks - Parks & Recreation,5983.38,57.88,100517.25
+2027,Parks - Parks & Recreation,5774.64,61.29,101555.81
+2028,Parks - Parks & Recreation,5565.18,64.69,102594.45
+2018,Street - Street,36417.88,8619.58,68485.57
+2019,Street - Street,36890.53,9120.6,68987.94
+2020,Street - Street,38515.29,10805.11,69492.17
+2021,Street - Street,39565.73,11902.9,69996.4
+2022,Street - Street,40902.47,13291.55,70500.62
+2023,Street - Street,42096.49,14536.01,71004.85
+2024,Street - Street,43361.65,15851.95,71509.07
+2025,Street - Street,44591.35,17132.46,72013.3
+2026,Street - Street,45838.73,18430.53,72517.52
+2027,Street - Street,47077.3,19719.9,73021.75
+2028,Street - Street,48320.26,21013.58,73525.97
+2018,PW - Public Works,16058.72,289.73,90703.0
+2019,PW - Public Works,13016.73,-27.08,91405.73
+2020,PW - Public Works,9031.63,-371.59,92587.22
+2021,PW - Public Works,5263.09,-713.34,93607.66
+2022,PW - Public Works,1444.81,-1055.37,94682.28
+2023,PW - Public Works,-2362.04,-1397.37,95738.67
+2024,PW - Public Works,-6171.51,-1739.37,96801.19
+2025,PW - Public Works,-9980.38,-2081.37,97861.65
+2026,PW - Public Works,-13789.39,-2423.37,98922.81
+2027,PW - Public Works,-17598.37,-2765.38,99983.73
+2028,PW - Public Works,-21407.35,-3107.38,101044.73
+2018,Pol - Police,44539.17,1273.47,94299.7
+2019,Pol - Police,43158.96,1462.18,95085.03
+2020,Pol - Police,41349.56,1653.15,96696.49
+2021,Pol - Police,39638.87,1844.08,97980.08
+2022,Pol - Police,37905.48,2035.0,99393.8
+2023,Pol - Police,36177.31,2225.93,100755.86
+2024,Pol - Police,34447.94,2416.86,102138.43
+2025,Pol - Police,32718.85,2607.79,103512.86
+2026,Pol - Police,30989.69,2798.72,104890.52
+2027,Pol - Police,29260.55,2989.65,106266.9
+2028,Pol - Police,27531.41,3180.58,107643.79

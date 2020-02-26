@@ -1,0 +1,217 @@
+Year,Department,Compensation_mean,NumberOfPeople
+2012,Animal - Animal Shelter,23985.35,29
+2012,BPS - Board of Public Safety,634.4,4
+2012,CFRD - Community & Family Resources,29578.5,17
+2012,Clerk - Clerk,16565.93,7
+2012,Controller - Controller,45041.26,8
+2012,Council - Council,16140.3,16
+2012,ESD - Economic & Sustainable Dev,30709.97,6
+2012,Eng - Engineering,46030.23,8
+2012,Facilities - Maintenance,32221.9,4
+2012,Fire - Fire,56420.82,109
+2012,Fleet - Fleet,39748.23,11
+2012,HAND - Housing & Neighborhood Dev,40094.32,18
+2012,HR - Human Resources,23615.73,13
+2012,ITS - Information & Technology Service,45394.2,20
+2012,Legal - Legal,55986.2,8
+2012,OOTM - Office of the Mayor,25136.87,13
+2012,PW - Public Works,32831.18,11
+2012,Parking - Parking Enforcement,14793.59,39
+2012,Parks - Parks & Recreation,8956.39,405
+2012,Plan - Planning,39595.69,19
+2012,Pol - Police,52160.5,140
+2012,Risk - Risk,53559.63,4
+2012,Sanitation - Sanitation,34006.64,28
+2012,Street - Street,28148.42,52
+2012,Traffic - Traffic,19793.51,3
+2012,Utilities Accounting - Utilities.Accounting,46453.95,9
+2012,Utilities B&C - Utilities.Billings & Collections,34606.32,4
+2012,Utilities Blucher - Utilities.Blucher Poole WWTP,41858.81,14
+2012,Utilities Comm - Utilities.Communications,23235.07,6
+2012,Utilities Customer Serv - Utilities.Customer Relations,33111.31,5
+2012,Utilities Dillman - Utilities.Dillman Road WWTP,47802.75,19
+2012,Utilities Director - Utilities.Department of the Director,20085.58,23
+2012,Utilities Engineering - Utilities.Engineering,42536.94,22
+2012,Utilities Lab - Utilities.Laboratory,45416.29,4
+2012,Utilities Meters - Utilities.Meters,38515.81,13
+2012,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,37790.94,17
+2012,Utilities Purchasing - Utilities.Purchasing,38730.78,5
+2012,Utilities Stormwater - Utilities.Stormwater,41255.16,7
+2012,Utilities T&D - Utilities.Transmission & Distribution,37790.3,47
+2012,Utilities USB - Utilities.Utility Service Board,4262.7,7
+2013,Animal - Animal Shelter,24570.25,27
+2013,CFRD - Community & Family Resources,33668.28,15
+2013,Clerk - Clerk,22893.72,5
+2013,Controller - Controller,42998.96,9
+2013,Council - Council,18575.88,14
+2013,ESD - Economic & Sustainable Dev,35120.96,7
+2013,Eng - Engineering,45642.87,9
+2013,Facilities - Facilities Maintenance,35095.44,4
+2013,Fire - Fire,56053.99,112
+2013,Fleet - Fleet Maintenance,40554.72,10
+2013,HAND - Housing & Neighborhood Dev,38240.27,20
+2013,HR - Human Resources,29221.96,9
+2013,ITS - Information & Technology Service,42813.35,21
+2013,Legal - Legal,62313.79,8
+2013,OOTM - Office of the Mayor,27992.25,10
+2013,PW - Public Works,36341.51,8
+2013,Parking - Parking Enforcement,16179.11,35
+2013,Parks - Parks & Recreation,8674.71,401
+2013,Plan - Planning,42975.02,19
+2013,Pol - Police,53746.96,139
+2013,Risk - Risk,54633.59,4
+2013,Sanitation - Sanitation,32270.47,28
+2013,Street - Street,29879.65,51
+2013,Utilities Accounting - Utilities.Accounting,47556.59,9
+2013,Utilities B&C - Utilities.Billings & Collections,31959.28,4
+2013,Utilities Blucher - Utilities.Blucher Poole WWTP,48549.28,13
+2013,Utilities Comm - Utilities.Communications,23187.16,6
+2013,Utilities Customer Serv - Utilities.Customer Relations,26679.27,6
+2013,Utilities Dillman - Utilities.Dillman Road WWTP,50491.3,18
+2013,Utilities Director - Utilities.Department of the Director,24580.99,20
+2013,Utilities Engineering - Utilities.Engineering,48522.25,18
+2013,Utilities Lab - Utilities.Laboratory,46474.43,4
+2013,Utilities Meters - Utilities.Meters,40077.02,13
+2013,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,39593.19,16
+2013,Utilities Purchasing - Utilities.Purchasing,40579.14,6
+2013,Utilities Stormwater - Utilities.Stormwater,40726.23,6
+2013,Utilities T&D - Utilities.Transmission & Distribution,38599.97,44
+2013,Utilities USB - Utilities.Utility Service Board,4215.86,7
+2014,Animal Shelter,27983.52,23
+2014,Board of Public Safety,610.0,4
+2014,Clerk,25291.72,5
+2014,Community and Family Resources,28678.19,17
+2014,Controller,38259.89,15
+2014,Council,21083.99,13
+2014,Economic and Sustainable Dev,32037.17,8
+2014,Engineering,26679.4,2
+2014,Facilities Maintenance,24432.97,7
+2014,Fire,57556.66,111
+2014,Fleet Maintenance,39861.44,9
+2014,Housing and Neighborhood Dev,33056.81,21
+2014,Human Resources,35197.48,8
+2014,Information and Technology Service,35339.81,25
+2014,Legal,52641.25,11
+2014,Office of the Mayor,28951.53,8
+2014,Parking Enforcement,4734.78,4
+2014,Parks and Recreation,8309.31,414
+2014,Planning and Transportation,39895.91,26
+2014,Police,47552.49,171
+2014,Public Works,35376.58,7
+2014,Risk,50244.8,3
+2014,Sanitation,34498.38,27
+2014,Street,28676.69,55
+2014,Utilities,38186.98,196
+2015,Animal - Animal Shelter,29804.98,23
+2015,Board of Public Safety,575.84,5
+2015,CFRD - Community & Family Resources,37416.25,12
+2015,Clerk - Clerk,22614.51,6
+2015,Controller - Controller,42716.78,15
+2015,Council - Council,21570.68,13
+2015,ESD - Economic & Sustainable Dev,31441.78,8
+2015,Facilities - Facilities Maintenance,27623.94,13
+2015,Fire - Fire,55320.64,114
+2015,Fleet - Fleet Maintenance,40103.17,11
+2015,HAND - Housing & Neighborhood Dev,32877.35,23
+2015,HR - Human Resources,35775.27,8
+2015,ITS - Information & Technology Service,47390.96,21
+2015,Legal - Legal,52165.92,11
+2015,OOTM - Office of the Mayor,26423.95,12
+2015,PW - Public Works,23207.87,7
+2015,Parks - Parks & Recreation,8039.65,429
+2015,Plan - Planning and Transportation,41538.75,28
+2015,Pol - Police,47785.37,172
+2015,Risk - Risk,51880.53,3
+2015,Sanitation - Sanitation,39478.19,25
+2015,Street - Street,33634.03,52
+2015,Utilities Accounting - Utilities.Accounting,48005.16,9
+2015,Utilities B&C - Utilities.Billings & Collections,35376.54,4
+2015,Utilities Blucher - Utilities.Blucher Poole WWTP,51013.21,12
+2015,Utilities Comm - Utilities.Communications,23824.34,6
+2015,Utilities Customer Serv - Utilities.Customer Relations,27475.63,7
+2015,Utilities Dillman - Utilities.Dillman Road WWTP,47524.51,19
+2015,Utilities Director - Utilities.Department of the Director,18535.85,32
+2015,Utilities Engineering - Utilities.Engineering,46836.09,19
+2015,Utilities Lab - Utilities.Laboratory,44366.94,4
+2015,Utilities Meters - Utilities.Meters,35334.41,15
+2015,Utilities Monroe WTP - Utilities.Monroe Water Treatment Plant,38359.11,17
+2015,Utilities Purchasing - Utilities.Purchasing,41035.2,6
+2015,Utilities Stormwater - Utilities.Stormwater,43289.5,7
+2015,Utilities T&D - Utilities.Transmission & Distribution,39864.34,43
+2015,Utilities USB - Utilities.Utility Service Board,3627.39,8
+2016,Animal Shelter,26818.18,26
+2016,Board of Public Safety,390.4,8
+2016,Clerk,10516.43,12
+2016,Community & Family Resources,39406.62,12
+2016,Controller,45745.97,13
+2016,Council,16287.03,18
+2016,Economic & Sustainable Dev,29336.16,11
+2016,Facilities Maintenance,28713.14,13
+2016,Fire,56451.81,117
+2016,Fleet Maintenance,41012.88,11
+2016,Housing & Neighborhood Dev,32715.98,23
+2016,Human Resources,40126.14,7
+2016,Information & Technology Service,44683.7,22
+2016,Legal,49116.6,13
+2016,Office of the Mayor,28700.71,12
+2016,Parks & Recreation,7653.36,460
+2016,Planning and Transportation,43038.04,29
+2016,Police,46617.65,176
+2016,Public Works,17691.41,11
+2016,Risk,44633.42,2
+2016,Sanitation,34759.91,26
+2016,Street,32425.94,54
+2016,Utilities/Accounting,45115.53,10
+2016,Utilities/Billings & Collections,33552.94,4
+2016,Utilities/Blucher Poole WWTP,50507.37,12
+2016,Utilities/Communications,22805.18,6
+2016,Utilities/Customer Relations,28501.33,6
+2016,Utilities/Department of the Director,20699.45,28
+2016,Utilities/Dillman Road WWTP,43265.2,22
+2016,Utilities/Engineering,40358.76,23
+2016,Utilities/Laboratory,45243.36,4
+2016,Utilities/Meters,30931.88,16
+2016,Utilities/Monroe Water Treatment Plant,45804.57,13
+2016,Utilities/Purchasing,44498.52,6
+2016,Utilities/Stormwater,44127.05,7
+2016,Utilities/Transmission & Distribution,39206.75,44
+2016,Utilities/Utility Service Board,3720.76,8
+2017,Animal Care & Control,32128.03,23
+2017,Board of Public Safety,496.13,6
+2017,Board of Public Works,2099.76,3
+2017,Clerk's Office,13505.55,10
+2017,Community and Family Resources,40766.82,12
+2017,Council,18811.7,16
+2017,Economic and Sustainable Development,28353.39,11
+2017,Fire,56607.72,115
+2017,Fleet Maintenance,36400.6,13
+2017,HAND,32582.85,23
+2017,Human Resources,34794.38,9
+2017,ITS,44631.38,23
+2017,Legal,60941.74,10
+2017,Office of the Controller,37949.1,15
+2017,Office of the Mayor,37054.69,15
+2017,Parks & Recreation,750.0,1
+2017,Parks and Recreation,8450.99,425
+2017,Planng & Transportation,36777.68,33
+2017,Police,47482.15,192
+2017,Public Works,47725.23,5
+2017,Public Works/Facilities,22907.68,9
+2017,Public Works/Parking Garage,25576.18,9
+2017,Sanitation,29899.22,34
+2017,Street,32282.26,52
+2017,Utilities Service Board,3785.11,7
+2017,Utilities/Accounting,42814.78,11
+2017,Utilities/Billings & Collections,35240.4,3
+2017,Utilities/Blucher Poole,51765.49,12
+2017,Utilities/Communications,25593.84,6
+2017,Utilities/Customer Relations,36529.19,5
+2017,Utilities/Department of the Director,21944.26,27
+2017,Utilities/Dillman,42504.57,24
+2017,Utilities/Engineering,48875.74,17
+2017,Utilities/Laboratory,42580.26,4
+2017,Utilities/Meters,32397.6,15
+2017,Utilities/Monroe Plant,39848.0,19
+2017,Utilities/Purchasing,30849.43,4
+2017,Utilities/Stormwater,36581.93,7
+2017,Utilities/T & D,37966.12,53
